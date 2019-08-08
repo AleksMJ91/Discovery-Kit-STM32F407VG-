@@ -1,0 +1,10 @@
+.settings
+/startup
+/Debug
+/*.cproject
+/*.mxproject
+/*.project
+/*.ioc
+/*.launch
+/*.ld
+/Middlewares
